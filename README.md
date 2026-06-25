@@ -1,3 +1,5 @@
+THIS KERNEL BELONG TO TECNO CAMON 20 PRO 4G 
+IN COLLABORATION OF RyukaKuniku And anomaliinhere
 
 ## Device specifications
 
